@@ -41,7 +41,7 @@ fun MainScreenH() {
             verticalArrangement = Arrangement.Center,
             horizontalAlignment = Alignment.CenterHorizontally) {
 
-            Text("Pass Phraser",
+            Text("RandoMight",
                 fontSize = 28.sp,
                 fontFamily = FontFamily.Monospace,
                 fontWeight = FontWeight.Bold
