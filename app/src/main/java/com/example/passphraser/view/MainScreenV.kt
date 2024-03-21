@@ -14,6 +14,7 @@ import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.Button
 import androidx.compose.material3.ButtonDefaults
+import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Slider
 import androidx.compose.material3.SliderDefaults
 import androidx.compose.material3.Text
@@ -28,9 +29,6 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.passphraser.R
-import com.example.passphraser.ui.theme.Amarillo
-import com.example.passphraser.ui.theme.Gris
-import com.example.passphraser.ui.theme.Negro
 
 @Preview(showBackground = true)
 @Composable
@@ -56,35 +54,30 @@ fun MainScreenV() {
             )
             Spacer(modifier = Modifier.height(4.dp))
 
-            Text("Desired Length: "/*${viewModel.desiredPasswordLength}*/,
-                fontSize = 16.sp,
-                fontFamily = FontFamily.Monospace
-            )
-
-            Spacer(modifier = Modifier.padding(16.dp))
-
             Box(modifier = Modifier
                     .width(200.dp)
                     .border(
                         width = 1.dp,
-                        color = Color.Black,
+                        color = MaterialTheme.colorScheme.outline,
                         shape = RoundedCornerShape(4.dp)
                     )
                     .padding(8.dp)) {
                 Text(text = "viewModel.generatedPassword",
                     fontSize = 18.sp,
-                    color = Color.Gray,
                     modifier = Modifier.align(Alignment.Center)
                 )
             }
 
-            Spacer(modifier = Modifier.padding(12.dp))
+            Spacer(modifier = Modifier.padding(16.dp))
+            Text("Desired Length: "/*${viewModel.desiredPasswordLength}*/,
+                fontSize = 16.sp,
+                fontFamily = FontFamily.Monospace
+            )
 
-            Slider(
-                value = 1F,
-                onValueChange = {
-                    /**/
-                },
+            Spacer(modifier = Modifier.padding(8.dp))
+
+            Slider(value = 1F,
+                onValueChange = {/**/ },
                 /*
                 value = viewModel.desiredPasswordLength.toFloat(),
                 onValueChange = {
@@ -93,19 +86,19 @@ fun MainScreenV() {
                  */
                 valueRange = 10f..16f,
                 steps = 0.1f.toInt(),
-                modifier = Modifier.width(200.dp).padding(8.dp),
+                modifier = Modifier.width(200.dp),
                 colors = SliderDefaults.colors(
                     activeTickColor = Color.Transparent,
                     inactiveTickColor = Color.Transparent,
-                    inactiveTrackColor = Gris,
-                    activeTrackColor = Negro,
-                    thumbColor = Amarillo
+                    inactiveTrackColor = MaterialTheme.colorScheme.secondary,
+                    activeTrackColor = MaterialTheme.colorScheme.tertiary,
+                    thumbColor = MaterialTheme.colorScheme.primary
                 )
             )
 
             Spacer(modifier = Modifier.height(22.dp))
 
-            Button(colors = ButtonDefaults.buttonColors(Amarillo),
+            Button(colors = ButtonDefaults.buttonColors(MaterialTheme.colorScheme.primary),
                 onClick = { /*viewModel.generateRandomPassword()*/ }) {
                 Spacer(modifier = Modifier.height(50.dp))
                 Text("Generate Passphrase")
