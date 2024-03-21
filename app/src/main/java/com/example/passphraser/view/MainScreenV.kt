@@ -28,11 +28,14 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import androidx.lifecycle.viewmodel.compose.viewModel
 import com.example.passphraser.R
+import com.example.passphraser.engine_logic.WordSelector
 
 @Preview(showBackground = true)
 @Composable
 fun MainScreenV() {
+    val viewModel: WordSelector = viewModel()
 
 // Container
     Box(modifier = Modifier.fillMaxSize()) {
@@ -41,7 +44,7 @@ fun MainScreenV() {
             verticalArrangement = Arrangement.Center,
             horizontalAlignment = Alignment.CenterHorizontally) {
 
-            Text("Pass Phraser",
+            Text("RandoMight",
                 fontSize = 28.sp,
                 fontFamily = FontFamily.Monospace,
                 fontWeight = FontWeight.Bold
@@ -62,29 +65,25 @@ fun MainScreenV() {
                         shape = RoundedCornerShape(4.dp)
                     )
                     .padding(8.dp)) {
-                Text(text = "viewModel.generatedPassword",
+                Text(text = "${viewModel.selectedWord}",
                     fontSize = 18.sp,
                     modifier = Modifier.align(Alignment.Center)
                 )
             }
 
             Spacer(modifier = Modifier.padding(16.dp))
-            Text("Desired Length: "/*${viewModel.desiredPasswordLength}*/,
+            Text("Desired Length: ${viewModel.passwordLength}",
                 fontSize = 16.sp,
                 fontFamily = FontFamily.Monospace
             )
 
             Spacer(modifier = Modifier.padding(8.dp))
 
-            Slider(value = 1F,
-                onValueChange = { /* */ },
-                /*
-                value = viewModel.desiredPasswordLength.toFloat(),
+            Slider(value = viewModel.passwordLength.toFloat(),
                 onValueChange = {
-                    viewModel.desiredPasswordLength = it.toInt()
+                    viewModel.passwordLength = it.toInt()
                 },
-                 */
-                valueRange = 10f..16f,
+                valueRange = 2f..16f,
                 steps = 0.1f.toInt(),
                 modifier = Modifier.width(200.dp),
                 colors = SliderDefaults.colors(
@@ -99,7 +98,7 @@ fun MainScreenV() {
             Spacer(modifier = Modifier.height(22.dp))
 
             Button(colors = ButtonDefaults.buttonColors(MaterialTheme.colorScheme.primary),
-                onClick = { /*viewModel.generateRandomPassword()*/ }) {
+                onClick = { viewModel.wordSelect() }) {
                 Spacer(modifier = Modifier.height(50.dp))
                 Text("Generate Passphrase")
             }

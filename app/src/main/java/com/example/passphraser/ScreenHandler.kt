@@ -23,7 +23,7 @@ object ScreenHandler {
                 .collect { orientation = it }
         }
         when (orientation) {
-            Configuration.ORIENTATION_PORTRAIT -> {
+            Configuration.ORIENTATION_LANDSCAPE -> {
                 MainScreenH()
             }
             else -> {
