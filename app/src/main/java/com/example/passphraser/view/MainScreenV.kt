@@ -28,6 +28,9 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.passphraser.R
+import com.example.passphraser.ui.theme.Amarillo
+import com.example.passphraser.ui.theme.Gris
+import com.example.passphraser.ui.theme.Negro
 
 @Preview(showBackground = true)
 @Composable
@@ -94,30 +97,21 @@ fun MainScreenV() {
                 colors = SliderDefaults.colors(
                     activeTickColor = Color.Transparent,
                     inactiveTickColor = Color.Transparent,
-                    inactiveTrackColor = Color.LightGray,
-                    activeTrackColor = Color.Green,
-                    thumbColor = Color.Green
+                    inactiveTrackColor = Gris,
+                    activeTrackColor = Negro,
+                    thumbColor = Amarillo
                 )
             )
 
             Spacer(modifier = Modifier.height(22.dp))
 
-            Button(
-                colors = ButtonDefaults.buttonColors(),
+            Button(colors = ButtonDefaults.buttonColors(Amarillo),
                 onClick = { /*viewModel.generateRandomPassword()*/ }) {
                 Spacer(modifier = Modifier.height(50.dp))
                 Text("Generate Passphrase")
             }
 
             Spacer(modifier = Modifier.padding(bottom = 26.dp))
-
-            /*
-            Image(
-                painter = painterResource(R.mipmap.someimage),
-                contentDescription = "Image content description",
-                Modifier.size(200.dp)
-            )
-             */
         }
     }
 }
