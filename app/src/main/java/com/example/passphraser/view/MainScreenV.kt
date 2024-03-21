@@ -77,7 +77,7 @@ fun MainScreenV() {
             Spacer(modifier = Modifier.padding(8.dp))
 
             Slider(value = 1F,
-                onValueChange = {/**/ },
+                onValueChange = { /* */ },
                 /*
                 value = viewModel.desiredPasswordLength.toFloat(),
                 onValueChange = {
