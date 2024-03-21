@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.passphraser"
+    namespace = "com.example.randomight"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.passphraser"
+        applicationId = "com.example.randomight"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

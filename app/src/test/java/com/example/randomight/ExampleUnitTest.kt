@@ -1,4 +1,4 @@
-package com.example.passphraser
+package com.example.randomight
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.example.passphraser.ui.theme
+package com.example.randomight.ui.theme
 
 import android.app.Activity
 import android.os.Build
@@ -43,7 +43,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun PassPhraserTheme(
+fun RandoMightTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = false,

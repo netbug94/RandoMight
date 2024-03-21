@@ -1,4 +1,4 @@
-package com.example.passphraser.ui.theme
+package com.example.randomight.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

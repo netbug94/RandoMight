@@ -1,4 +1,4 @@
-package com.example.passphraser.engine_logic
+package com.example.randomight.engine_logic
 
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableIntStateOf

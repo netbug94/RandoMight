@@ -1,4 +1,4 @@
-package com.example.passphraser
+package com.example.randomight
 
 import android.content.res.Configuration
 import androidx.compose.runtime.Composable
@@ -9,8 +9,8 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.runtime.snapshotFlow
 import androidx.compose.ui.platform.LocalConfiguration
-import com.example.passphraser.view.MainScreenH
-import com.example.passphraser.view.MainScreenV
+import com.example.randomight.view.MainScreenH
+import com.example.randomight.view.MainScreenV
 
 object ScreenHandler {
     @Composable
