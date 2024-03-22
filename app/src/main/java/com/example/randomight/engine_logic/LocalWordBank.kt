@@ -129,5 +129,27 @@ object LocalWordBank {
         "domestic", "dominant", "dominate", "domineering", "door", "dorm", "dot", "double", "doubt",
         "down", "draft", "dribble", "dugout", "dusk", "duty-free",
 // E section
+        "e-mail", "each", "eager", "ear", "earlier", "earlobe", "early", "earn", "earth", "ease",
+        "east", "easy", "easygoing", "eat", "ecology", "economic", "economics", "economist",
+        "economy", "ecosystem", "edge", "edict", "edit", "edition", "editor", "educate",
+        "education", "effect", "effective", "effete", "efficient", "effort", "egg", "either",
+        "elastic", "elbow", "elect", "election", "electric", "electrician", "electricity",
+        "electronic", "element", "else", "elsewhere", "embarrass", "embarrassment", "emerge",
+        "emergency", "emission", "emotion", "emotional", "emphasis", "emphasize", "empire",
+        "employ", "employee", "employer", "employment", "empty", "enable", "encounter", "encourage",
+        "end", "endangered", "enemy", "energy", "engage", "engaged", "engine", "engineer",
+        "English", "enjoy", "enjoyment", "enormous", "enroll", "ensue", "ensure", "enter",
+        "entertain", "entertainment", "enthusiasm", "enthusiastic", "entire", "entrance",
+        "entreat", "entry", "envelope", "environment", "environmentalist", "envy", "equal",
+        "equipment", "equivalent", "erase", "erosion", "error", "escape", "especially", "essay",
+        "essential", "establish", "estate", "estimate", "ethnic", "evaluate", "even", "evening",
+        "event", "eventually", "ever", "every", "every day", "everybody", "everyday", "everyone",
+        "everything", "everywhere", "evidence", "evident", "evil", "ex", "exact", "exactly",
+        "exaggerate", "exam", "examination", "examine", "example", "exceed", "excellent", "except",
+        "exception", "excess", "exchange", "excite", "excitement", "exclude", "excuse", "executive",
+        "exercise", "expatiate", "exploit", "extinct", "extinction", "extroverted", "eyebrow",
+        "eyelash", "eyelid",
+// F section
+
     )
 }
