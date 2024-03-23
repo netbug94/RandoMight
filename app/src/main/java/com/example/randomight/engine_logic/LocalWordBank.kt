@@ -240,6 +240,25 @@ object LocalWordBank {
         "loose", "lord", "lose", "loss", "lost", "lot", "loud", "love", "lovely", "low", "lower",
         "loyal", "luck", "lucky", "ludicrous", "luggage", "lump", "lunch", "lung", "lust",
 // M section
+        "machine", "mad", "magazine", "magic", "mail", "main", "maintain", "major", "majority",
+        "make", "male", "malice", "man", "manage", "management", "manager", "manner", "manufacture",
+        "many", "map", "march", "margin", "mark", "market", "marriage", "marry", "mass", "master",
+        "master's degree", "match", "mate", "material", "mathematics", "matriculate", "matter",
+        "maximum", "may", "maybe", "mayor", "me", "meal", "mean", "meaning", "means", "meanwhile",
+        "measure", "measurement", "meat", "mechanic", "mechanical", "mechanism", "media",
+        "mediation", "medical", "medication", "medicine", "medium", "meet", "meeting", "melt",
+        "member", "membership", "memory", "mental", "mention", "menu", "mercy", "mere", "merely",
+        "merry", "mess", "message", "metal", "metaphor", "meter", "methane", "method", "mettle",
+        "microcosm", "middle", "midnight", "might", "mild", "mile", "military", "milk", "mill",
+        "mind", "mine", "mineral", "minimum", "minimum wage", "minister", "minor", "minority",
+        "minute", "miracle", "mirror", "misery", "miss", "mission", "mistake", "mix", "mixture",
+        "mobile", "mode", "model", "moderate", "modern", "modest", "mom", "moment", "Monday",
+        "money", "monitor", "month", "monthly", "mood", "moody", "moon", "moral", "more", "morning",
+        "morose", "most", "mostly", "mother", "mother-in-law", "motion", "motor", "mount",
+        "mountain", "mouse", "mouth", "move", "movement", "movie", "much", "mud", "muggy",
+        "multiply", "mundane", "murder", "muscle", "museum", "music", "musical", "musician",
+        "must", "mustache", "mutual", "my", "myself", "mysterious", "mystery",
+// N section
 
     )
 }
