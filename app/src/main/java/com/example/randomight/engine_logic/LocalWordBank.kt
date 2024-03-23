@@ -231,6 +231,15 @@ object LocalWordBank {
         "landfill", "landing", "landlord", "lane", "language", "large", "last", "late", "lately",
         "later", "latter", "laugh", "launch", "lavatory", "law", "lawyer", "lay", "lay up", "layer",
         "layoff", "lazy", "lead", "leader", "leaf", "league", "leak", "lean", "learn", "least",
-        "leather", "leave", "lecture", "left",
+        "leather", "leave", "lecture", "left", "leg", "legal", "lemon", "lend", "length", "less",
+        "lesson", "let", "letter", "level", "liberal", "liberty", "library", "license", "lid",
+        "lie", "life", "life sentence", "lift", "light", "lightning", "like", "likely", "limit",
+        "line", "link", "lip", "liquid", "list", "listen", "literary", "literature", "litigate",
+        "little", "live", "load", "loaf", "loan", "local", "locate", "location", "lock",
+        "locker room", "logic", "logical", "loneliness", "lonely", "long", "longing", "look",
+        "loose", "lord", "lose", "loss", "lost", "lot", "loud", "love", "lovely", "low", "lower",
+        "loyal", "luck", "lucky", "ludicrous", "luggage", "lump", "lunch", "lung", "lust",
+// M section
+
     )
 }
