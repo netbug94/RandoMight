@@ -150,6 +150,37 @@ object LocalWordBank {
         "exercise", "expatiate", "exploit", "extinct", "extinction", "extroverted", "eyebrow",
         "eyelash", "eyelid",
 // F section
+        "fabric", "face", "fact", "factor", "factory", "faculty", "fail", "failure", "faint",
+        "fair", "faith", "fake", "fall", "false", "fame", "familiar", "family", "famous", "fan",
+        "fancy", "far", "farm", "farmer", "fashion", "fast", "fasten", "fat", "fate", "father",
+        "father-in-law", "fatuous", "fault", "favor", "favorite", "fear", "fearful", "feasible",
+        "feather", "feature", "federal", "fee", "feed", "feel", "feeling", "fellow", "felon",
+        "felony", "female", "fence", "festival", "fever", "few", "fiancé", "fiancée", "fiasco",
+        "fiber", "field", "field goal", "fierce", "fight", "figure", "fill", "film", "filmmaker",
+        "final", "finally", "finance", "financial", "financial aid", "find", "fine", "finger",
+        "finish", "finish line", "fire", "firm", "first", "first aid", "first class", "fiscal",
+        "fish", "fisherman", "fit", "fix", "flag", "flame", "flash", "flat", "flavor", "flesh",
+        "flexible", "flextime", "flight", "flight attendant", "flight deck", "float", "flood",
+        "floor", "flour", "flow", "flower", "flu", "fluctuate", "fluid", "flurries", "fly", "focus",
+        "fog", "fold", "football", "footnote", "forearm", "forecast", "forehand", "forehead",
+        "forever", "formerly", "fossil fuel", "frank", "fraternity", "fraud", "free throw",
+        "frequently", "Friday", "friendly", "frustrate", "frustration", "full-time", "fun", "fund",
+        "funny", "furniture", "fury",
+// F section
+        "gain", "gallon", "game", "gap", "garage", "garbage", "garden", "gas", "gate", "gather",
+        "gay", "gear", "gender", "gene", "general", "generally", "generate", "generation",
+        "generosity", "generous", "gentle", "gentleman", "genuine", "geography", "geothermal",
+        "get", "giant", "gibe", "gift", "girl", "give", "glad", "glass", "glib", "global",
+        "global warming", "glory", "glove", "glow", "glue", "go", "goal", "goal line", "goalkeeper",
+        "goalpost", "god", "gold", "golden", "good", "goodbye", "govern", "government", "governor",
+        "GPA", "grab", "graceful", "grade", "gradual", "graduate", "grain", "grammar", "grand",
+        "grand slam", "grandchild", "granddaughter", "grandfather", "grandmother", "grandparent",
+        "grandson", "grant", "grass", "grateful", "grave", "gravity", "gray", "great", "greed",
+        "greedy", "green", "greenhouse effect", "greet", "gregarious", "grief", "grind", "grocery",
+        "groom", "groove", "ground", "groundwater", "group", "grow", "guarantee", "guard",
+        "guardian", "guess", "guest", "guide", "guilt", "guilty", "gullible", "gum", "gun", "gust",
+        "guy",
+// F section
 
     )
 }
