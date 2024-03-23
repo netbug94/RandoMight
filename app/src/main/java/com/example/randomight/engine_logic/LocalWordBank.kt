@@ -166,7 +166,7 @@ object LocalWordBank {
         "forever", "formerly", "fossil fuel", "frank", "fraternity", "fraud", "free throw",
         "frequently", "Friday", "friendly", "frustrate", "frustration", "full-time", "fun", "fund",
         "funny", "furniture", "fury",
-// F section
+// G section
         "gain", "gallon", "game", "gap", "garage", "garbage", "garden", "gas", "gate", "gather",
         "gay", "gear", "gender", "gene", "general", "generally", "generate", "generation",
         "generosity", "generous", "gentle", "gentleman", "genuine", "geography", "geothermal",
@@ -180,7 +180,57 @@ object LocalWordBank {
         "groom", "groove", "ground", "groundwater", "group", "grow", "guarantee", "guard",
         "guardian", "guess", "guest", "guide", "guilt", "guilty", "gullible", "gum", "gun", "gust",
         "guy",
-// F section
-
+// H section
+        "habit", "habitat", "hail", "hair", "half", "half time", "hammer", "hand", "handle",
+        "handsome", "handwriting", "hang", "happen", "happy", "harbor", "hard", "hardly",
+        "hardware", "harm", "harsh", "harvest", "hat", "hat trick", "hatch", "hate", "hatred",
+        "have", "hazy", "he", "head", "headache", "heal", "health", "healthy", "hear", "hearing",
+        "heart", "heat", "heaven", "heavy", "heel", "height", "hell", "hello", "help", "helpful",
+        "hence", "her", "herbicide", "here", "hero", "hers", "herself", "hesitate", "hide", "high",
+        "high-pressure", "highlight", "highway", "hill", "him", "himself", "hint", "hip", "hire",
+        "his", "historical", "history", "hit", "hives", "hobby", "hockey", "hold", "hole",
+        "holiday", "hollow", "holy", "home", "home plate", "home run", "homework", "honest",
+        "honesty", "honor", "hook", "hop", "hope", "hopeful", "horizontal", "horn", "horror",
+        "horse", "hose", "hospital", "host", "hostility", "hot", "hotel", "hour", "hourly", "house",
+        "household", "housework", "how", "however", "hug", "huge", "humid", "humidity", "hurricane",
+        "husband", "hypothesis",
+// I section
+        "ice", "idea", "ideal", "identical", "identification", "identify", "identity", "if",
+        "ignominious", "ignominy", "ignore", "ill", "illegal", "illness", "illustrate", "image",
+        "imaginary", "imagination", "imaginative", "imagine", "imitate", "immediate", "immigrant",
+        "immoral", "impact", "impatience", "impatient", "implacable", "import", "importance",
+        "important", "impossible", "impress", "impression", "impressive", "improve", "improvement",
+        "impulsive", "in", "inch", "incident", "incidental", "include", "income", "increase",
+        "indeed", "indefatigable", "independence", "independent", "index", "index finger",
+        "indicate", "indict", "indictment", "implacable", "import", "importance", "important",
+        "impossible", "impress", "impression", "impressive", "improve", "improvement", "impulsive",
+        "in", "inch", "incident", "incidental", "include", "income", "increase", "indeed",
+        "indefatigable", "independence", "independent", "index", "index finger", "indicate",
+        "indict", "indictment", "indigestion", "individual", "industrial", "industry", "inevitable",
+        "infant", "infect", "infection", "infield", "inflation", "influence", "influenza", "inform",
+        "informal", "information", "infrequently", "ingratiate", "ingredient", "initial",
+        "initiative", "injection", "injure", "injury", "ink", "inmate", "inner", "inning",
+        "innocent", "inscrutable", "insect", "insert", "inside", "insist", "inspect", "install",
+        "instance", "instant", "instead", "institute", "institution", "instruction", "instructor",
+        "instrument", "insult", "insurance", "intellectual property", "intelligence", "intelligent",
+        "intend", "intense", "intention", "interest", "interested", "interesting", "interior",
+        "interjection", "internal", "Internet", "interpret", "interrupt", "interval", "interview",
+        "into", "introduce", "introduction", "introverted", "invade", "invent", "invention",
+        "invest", "investigate", "investment", "irksome", "irresolute", "itinerary",
+// J section
+        "jacket", "jail", "jam", "jar", "jargon", "jaw", "jealous", "jealousy", "jelly", "jet",
+        "jet engine", "jet lag", "jewel", "jeweler", "jewelry", "jibe", "job", "join", "joint",
+        "joke", "journal", "journey", "joy", "judge", "judgment", "juice", "jumbo jet", "jump",
+        "jump shot", "junior", "jurisdiction", "juror", "jury", "just", "justice",
+// K section
+        "keen", "keep", "key", "kick", "kickoff", "kid", "kill", "kind", "kindness", "king",
+        "kingdom", "kiss", "kitchen", "knee", "kneel", "knife", "knit", "knock", "knot", "know",
+        "knowledge", "knuckle",
+// L section
+        "label", "labor", "laboratory", "lack", "ladder", "lady", "lake", "lamp", "land",
+        "landfill", "landing", "landlord", "lane", "language", "large", "last", "late", "lately",
+        "later", "latter", "laugh", "launch", "lavatory", "law", "lawyer", "lay", "lay up", "layer",
+        "layoff", "lazy", "lead", "leader", "leaf", "league", "leak", "lean", "learn", "least",
+        "leather", "leave", "lecture", "left",
     )
 }
