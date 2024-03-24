@@ -259,6 +259,27 @@ object LocalWordBank {
         "multiply", "mundane", "murder", "muscle", "museum", "music", "musical", "musician",
         "must", "mustache", "mutual", "my", "myself", "mysterious", "mystery",
 // N section
+        "nail", "naked", "name", "narrow", "nation", "national", "native", "natural", "naturally",
+        "nature", "nausea", "navy", "near", "nearby", "nearly", "neat", "necessary", "neck", "need",
+        "needle", "negative", "negligence", "negligent", "neighbor", "neighborhood", "neither",
+        "nephew", "nerve", "nervous", "nest", "net", "nettle", "network", "neutral", "never",
+        "nevertheless", "new", "newly", "news", "newspaper", "next", "nice", "niece", "night", "no",
+        "no one", "nobody", "noise", "noisy", "none", "noon", "nor", "normal", "normally",
+        "nostril", "notary public", "notebook", "notes", "now", "nuclear energy", "nurse",
+        "nutritionist",
+// O section
+        "o'clock", "oath", "obdurate", "obey", "object", "objection", "objective", "observation",
+        "observe", "obsessive", "obtain", "obviate", "obvious", "occasion", "occasionally",
+        "occupation", "occupy", "occur", "ocean", "October", "odd", "odor", "of", "off", "offend",
+        "offense", "offensive", "offer", "office", "officer", "official", "often", "oh", "oil",
+        "OK", "old", "old-fashioned", "on", "once", "one", "one-way", "oneself", "only", "onto",
+        "open", "opening", "operate", "operation", "opinion", "opponent", "opportunity", "oppose",
+        "opposite", "opposition", "oppress", "optician", "optimism", "optimistic", "option", "or",
+        "orange", "order", "ordinary", "organ", "organic", "organization", "organize", "origin",
+        "original", "originally", "other", "otherwise", "ought", "ounce", "our", "ours",
+        "ourselves", "out", "outcome", "outdoors", "outfield", "outgoing", "overbook", "overcast",
+        "oxygen mask", "ozone layer",
+// P section
 
     )
 }
