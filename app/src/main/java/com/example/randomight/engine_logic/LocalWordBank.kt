@@ -318,5 +318,12 @@ object LocalWordBank {
         "quarterly", "queen", "querulous", "question", "quick", "quiet", "quit", "quite", "quiz",
         "quotation", "quote",
 // R section
+        "race", "racial", "radiation", "radical", "radio", "rage", "rail", "railroad", "rain",
+        "rain forest", "raise", "range", "rank", "rapid", "rare", "rarely", "rash", "rate",
+        "rather", "ratio", "rational", "raw", "reach", "react", "reaction", "read", "reader",
+        "reading", "ready", "real", "realistic", "reality", "realize", "really", "rear", "reason",
+        "reasonable", "reasonably", "rebuke", "recall", "receive", "recent", "recently",
+        "reception", "receptionist", "recession", "recognition", "recognize", "recommend", "record",
+        "recover",
     )
 }
