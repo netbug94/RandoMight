@@ -314,6 +314,9 @@ object LocalWordBank {
         "propeller", "property", "prosecute", "prosecutor", "proximity", "psychologist", "puck",
         "pupil",
 // Q section
-
+        "quad", "qualification", "qualify", "quality", "quantity", "quarter", "quarterback",
+        "quarterly", "queen", "querulous", "question", "quick", "quiet", "quit", "quite", "quiz",
+        "quotation", "quote",
+// R section
     )
 }
