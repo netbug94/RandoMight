@@ -325,9 +325,6 @@ object LocalWordBank {
         "reasonable", "reasonably", "rebuke", "recall", "receive", "recent", "recently",
         "reception", "receptionist", "recession", "recognition", "recognize", "recommend", "record",
         "recover", "recreational", "recycle", "red", "redolent", "reduce", "reduction", "refer",
-        "referee", "reference", "reflect", "reform", "refrigerator", "refuse", "regard", "region",
-        "register", "registrar", "regret", "regular", "regulation", "reject", "relate", "relation",
-        "relationship", "relative",
 
     )
 }
