@@ -325,6 +325,14 @@ object LocalWordBank {
         "reasonable", "reasonably", "rebuke", "recall", "receive", "recent", "recently",
         "reception", "receptionist", "recession", "recognition", "recognize", "recommend", "record",
         "recover", "recreational", "recycle", "red", "redolent", "reduce", "reduction", "refer",
-
+        "referee", "reference", "reflect", "reform", "refrigerator", "refuse", "regard", "region",
+        "register", "registrar", "regret", "regular", "regulation", "reject", "relate", "relation",
+        "relationship", "relative", "relax", "release", "relevant", "reliable", "relief", "relieve",
+        "religion", "religious", "rely", "remain", "remark", "remarkable", "remember", "remind",
+        "remove", "renegade", "renewable", "rent", "repair", "repeat", "replace", "reply", "report",
+        "represent", "representative", "representative", "reproduce", "republic", "reputation",
+        "request", "request", "require", "requirement", "rescue", "rescue", "research", "reserve",
+        "reserve", "reserved", "resident", "resign", "resist", "resistance", "resolve", "resource",
+        "respect", "respect", "respond", "response", "responsibility", "responsible", "rest",
     )
 }
