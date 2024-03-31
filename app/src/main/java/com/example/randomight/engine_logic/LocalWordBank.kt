@@ -336,7 +336,8 @@ object LocalWordBank {
         "respect", "respect", "respond", "response", "responsibility", "responsible", "rest",
         "restaurant", "restore", "restraining order", "restrict", "result", "retain", "retire",
         "retirement", "retrieve", "return", "reveal", "reverse", "review", "revise", "revision",
-        "revolution", "reward", "rhyme",
-
+        "revolution", "reward", "rhyme", "rhythm", "rice", "rich", "rid", "ride", "right", "ring",
+        "riot", "rise", "risk", "river", "road", "rob", "rock", "role", "roll", "romantic", "roof",
+        "room", "room and board", "roommate", "root", "rope", "rough",
     )
 }
