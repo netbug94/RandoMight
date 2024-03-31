@@ -339,5 +339,6 @@ object LocalWordBank {
         "revolution", "reward", "rhyme", "rhythm", "rice", "rich", "rid", "ride", "right", "ring",
         "riot", "rise", "risk", "river", "road", "rob", "rock", "role", "roll", "romantic", "roof",
         "room", "room and board", "roommate", "root", "rope", "rough",
+
     )
 }
