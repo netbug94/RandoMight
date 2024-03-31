@@ -334,5 +334,9 @@ object LocalWordBank {
         "request", "request", "require", "requirement", "rescue", "rescue", "research", "reserve",
         "reserve", "reserved", "resident", "resign", "resist", "resistance", "resolve", "resource",
         "respect", "respect", "respond", "response", "responsibility", "responsible", "rest",
+        "restaurant", "restore", "restraining order", "restrict", "result", "retain", "retire",
+        "retirement", "retrieve", "return", "reveal", "reverse", "review", "revise", "revision",
+        "revolution", "reward", "rhyme",
+
     )
 }
